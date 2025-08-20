@@ -1,0 +1,117 @@
+//此多仓接口列表网上搜索整理而成，感谢视频源大佬的无私奉献！！
+{
+    "urls": [
+        {
+            "url": "http://47.96.82.41:5188/",
+            "name": "资源"
+        },
+        {
+            "url": "http://47.96.82.41:8/api.json",
+            "name": "网盘"
+        },
+        {
+            "url": "http://47.96.82.41:3/",
+            "name": "哥哥"
+        },
+        {
+            "url": "http://47.96.82.41:5188/svip/svip.json",
+            "name": "4K"
+        },
+        {
+            "url": "http://tv.nxog.top/m/",
+            "name": "欧歌"
+        },
+        {
+            "url": "https://tv.xn--yhqu5zs87a.top",
+            "name": "菜妮丝"
+        },
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "http://肥猫.com",
+            "name": "肥猫"
+        },
+        {
+            "url": "http://miqk.cc/小米/DEMO.json",
+            "name": "小米"
+        },
+        {
+            "url": "http://www.meowtv.vip/tvbox.json",
+            "name": "喵影视"
+        },
+        {
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "南风"
+        },
+        {
+            "url": "https://yydsys.top/duo",
+            "name": "多多"
+        },
+        {
+            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
+            "name": "多多备用"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "技巧"
+        },
+        {
+            "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
+            "name": "PG"
+        },
+        {
+            "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
+            "name": "真心"
+        },
+        {
+            "url": "http://ok321.top/tv",
+            "name": "OK"
+        },
+        {
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json",
+            "name": "香雅情"
+        },
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "王二小"
+        },
+        {
+            "url": "http://tv.laohu.cool/tvbox.json",
+            "name": "老虎"
+        },
+        {
+            "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
+            "name": "短剧"
+        },
+        {
+            "url": "http://rihou.cc:555/nzk/nzk0722.json",
+            "name": "D佬"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "摸鱼"
+        },
+        {
+            "url": "http://mzjk.top/禁止贩卖",
+            "name": "月光宝盒"
+        },
+        {
+            "url":"https://gitee.com/free-kingdom/dc/raw/main/T4.json",
+            "name": "T4"
+        },
+        {
+            "url": "https://毒盒.com/tv",
+            "name": "毒盒"
+        },
+        {
+            "url":"https://ghfast.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "高天流云"
+        },
+        {
+            "url":"https://gitee.com/yiwu369/6758/raw/master/1.json",
+            "name": "青龙"
+        }
+    ]
+}
