@@ -21,6 +21,18 @@
             "name": "饭太硬备用2"
         },
         {
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/main/json/demo.json",
+            "name": "小米"
+        },
+        {
+            "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+            "name": "道长"
+        },
+        {
+            "url": "https://www.252035.xyz/p/jsm.json",
+            "name": "PG"
+        },
+        {
             "url": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "南风"
         }
